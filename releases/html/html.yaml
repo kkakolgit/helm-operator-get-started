@@ -21,4 +21,4 @@ spec:
     hpa:
       enabled: false
     ingress:
-      enabled: true
+      enabled: false
