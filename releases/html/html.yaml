@@ -16,7 +16,7 @@ spec:
   values:
     image:
       repository: kkakol/demoapp
-      tag: master-wjryi79x
+      tag: master-nrofatkk
     replicaCount: 1
     hpa:
       enabled: false
