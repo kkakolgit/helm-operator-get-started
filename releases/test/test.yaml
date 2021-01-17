@@ -3,7 +3,7 @@ apiVersion: helm.fluxcd.io/v1
 kind: HelmRelease
 metadata:
   name: html-test
-  namespace: html
+  namespace: test
   annotations:
     fluxcd.io/automated: "true"
     filter.fluxcd.io/chart-image: glob:master-*
